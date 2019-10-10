@@ -19,6 +19,7 @@ function setup(){
   }
 
   textAlign(CENTER);
+  textSize(50);
   text("Hello");
 
 }
