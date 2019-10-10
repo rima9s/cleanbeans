@@ -9,8 +9,6 @@ function setup(){
   createCanvas(375,667);
   image(screen1,0,0);
 
-  rect(19,462,90,93);
-
 }
 
 function draw(){
